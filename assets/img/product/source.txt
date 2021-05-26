@@ -1,0 +1,10 @@
+gambar1: https://id.pinterest.com/pin/328973947786777730/
+gambar2: https://id.pinterest.com/pin/763923155542645958/
+gambar3: https://id.pinterest.com/pin/AblYOFfIFy5dlvdh3CFUrT3EakNWGmFlNC-9Sy8I7tz-JgpBLTqew10EIJRIVNdv_-O8iAtQvONhjzjqODD7sCI/
+gambar4: https://id.pinterest.com/pin/607423068497600915/
+gambar5: https://id.pinterest.com/pin/607423068497600909/
+gambar6: https://id.pinterest.com/pin/425379127311685695/
+gambar7: https://id.pinterest.com/pin/108930884725101232/
+gambar8: https://id.pinterest.com/pin/2533343528379612/
+gambar9: https://id.pinterest.com/pin/15199717479844778/
+background: https://id.pinterest.com/pin/369647081924420072/

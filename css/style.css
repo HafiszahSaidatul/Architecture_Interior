@@ -1,0 +1,261 @@
+            .bg-brown {
+                background-color: hsl(36, 33%, 67%);
+            }
+            
+            #main-home {
+                width: 100%;
+                min-height: 650px;
+                background: url(../assets/img/bg.jpg);
+                background-size: cover;
+            }
+            
+            .color-brown {
+                color: #975c4b;
+            }
+            
+            .btn-theme {
+                background-color: #9b6b43;
+                font-weight: 900;
+                padding: 8px 18px;
+                color: #faedcd;
+            }
+            
+            .btn-theme:hover {
+                color: #d6d6d6;
+                box-shadow: 0px 0px 0px 4px rgba(106, 94, 69, 0.638), 0px 0px 0px 7px rgba(106, 94, 69, 0.222);
+            }
+            
+            .btn-theme-2 {
+                box-shadow: 0px 0px 0px 4px rgba(106, 94, 69, 0.638), 0px 0px 0px 7px rgba(106, 94, 69, 0.222);
+                margin: 0;
+                font-family: 'Fredoka One', cursive;
+                font-size: 16px;
+                font-weight: 500;
+                text-transform: capitalize;
+                background-color: #806a63;
+                color: rgb(167, 160, 146);
+                padding: 10px 30px;
+                border-radius: 30px;
+                transition: 0.5s ease;
+            }
+            
+            .btn-theme-2:hover {
+                background-color: #F5DEB3;
+                color: white;
+                box-shadow: none;
+            }
+            
+            .row {
+                font-family: 'Fredoka One', cursive;
+                font-size: 18px;
+                color: #caa181;
+                font-weight: bold;
+                letter-spacing: 3px;
+            }
+            
+            .fa-phone-alt {
+                color: #4f493f;
+                font-size: 13px;
+                letter-spacing: 2px;
+            }
+            
+            .fa-compass {
+                color: #4f493f;
+                font-size: 13px;
+                letter-spacing: 2px;
+            }
+            
+            #main-home #banner-slider {
+                position: relative;
+                top: 60px;
+            }
+            
+            #main-home #banner-slider .owl-carousel .owl-nav button {
+                position: absolute;
+                top: 30%;
+                outline: none;
+            }
+            
+            #main-home #banner-slider .owl-carousel .owl-nav button.owl-prev {
+                left: 0;
+            }
+            
+            #main-home #banner-slider .owl-carousel .owl-nav button.owl-next {
+                right: 0;
+            }
+            
+            #main-home #banner-slider .owl-carousel .owl-nav button span {
+                font-size: 56px;
+                padding: 0 1rem;
+                color: #5c5a3e;
+            }
+            
+            #main-home #banner-slider .owl-carousel .owl-nav button.owl-prev span {
+                margin-left: -5rem;
+            }
+            
+            #main-home #banner-slider .owl-carousel .owl-nav button.owl-next span {
+                margin-right: -5rem;
+            }
+            
+            #main-home #banner-slider .owl-carousel.owl-dots {
+                position: absolute;
+                bottom: -6rem;
+                left: 50%;
+                transform: translateX(-50%);
+            }
+            
+            #main-home #banner-slider .owl-carousel.owl-dots button span {
+                background-color: #5c5a3e;
+                padding: 6px!important;
+            }
+            
+            #main-home #banner-slider .owl-carousel.owl-dots button.active span {
+                background-color: #5c5a3e;
+            }
+            
+            #main-home a {
+                font-family: 'Fredoka One', cursive;
+            }
+            
+            #main-home p {
+                font-family: 'Langar', cursive;
+                color: #d3c09e;
+                font-weight: bold;
+                font-size: 18px;
+            }
+            
+            #main-home .header-top .item a {
+                color: #54433a;
+            }
+            
+            #main-home .header-top .item a:hover {
+                color: #e2bb80;
+            }
+            
+            #main-home .header .nav-item {
+                padding: 0 15px;
+            }
+            
+            #main-home .navbar .nav-item .nav-link {
+                color: #483a2b;
+                font-weight: 800;
+                font-size: 13px;
+                font-family: 'Fredoka One', cursive;
+            }
+            
+            #main-home .navbar .nav-item .nav-link:hover {
+                color: #83756b;
+            }
+            
+            #main-home .navbar .nav-item {
+                padding: 0 18px;
+            }
+            
+            #main-home .navbar .cart-icon {
+                color: #4d4540;
+                padding: 5px 10px;
+                border-radius: 5px;
+            }
+            /* About css */
+            
+            #about {
+                background-color: #1a1b20;
+                max-width: 100%;
+                min-height: 600px;
+            }
+            
+            #about h3 {
+                font-family: 'Fredoka One', cursive;
+                text-shadow: 1px 1px 3px #9b6b43;
+                color: #fcdba6;
+            }
+            
+            #about img {
+                width: 350px;
+                float: left;
+                padding-right: 30px;
+            }
+            
+            #about p {
+                font-size: 100%;
+                float: right;
+                text-align: left;
+                letter-spacing: 2px;
+                padding-left: 160px;
+                color: #e2ac80;
+                padding-right: 150px;
+                padding-top: 10px;
+                font-family: 'Fredoka One', cursive;
+            }
+            /* Product */
+            
+            #products h3 {
+                font-family: 'Fredoka One', cursive;
+                text-shadow: 1px 1px 3px #9b6b43;
+                color: #fcdba6;
+            }
+            
+            #products {
+                background-color: #1a1b20;
+            }
+            /*Project css*/
+            
+            #project h3 {
+                text-align: center;
+                text-shadow: 1px 1px 3px #9b6b43;
+                color: #fcdba6;
+                font-family: 'Fredoka One', cursive;
+            }
+            
+            #project {
+                background-color: #1a1b20;
+            }
+            
+            .col-12 a:hover img {
+                transform: scale(1.1);
+            }
+            /* Clients css */
+            
+            #clients {
+                background-color: #5b606b;
+                width: 100%;
+                max-height: 20%;
+            }
+            
+            #clients h3 {
+                text-align: center;
+                padding: 20px 0;
+                color: rgb(17, 15, 15);
+                margin-bottom: 25px;
+                padding: 60px 20px 30px 20px;
+                font-family: 'Fredoka One', cursive;
+                text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+                color: #483a2b;
+            }
+            
+            #clients a img {
+                max-width: 150px;
+                filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 1));
+            }
+            /* CONTACT */
+            
+            #contact {
+                background-color: #1a1b20;
+            }
+            
+            .form-group {
+                color: #bfbcbb;
+            }
+            
+            .card-body {
+                font-weight: 900;
+                padding: 8px 18px;
+                color: #000000;
+            }
+            
+            .list-group {
+                font-weight: 900;
+                padding: 8px 18px;
+                color: #9b6b43;
+            }
